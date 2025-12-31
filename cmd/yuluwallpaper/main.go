@@ -123,7 +123,7 @@ func newSettingsUI(fyneApp fyne.App, cfg *config.Config, logPath string, onApply
 		},
 	}
 
-	title := canvas.NewText("余露壁纸", theme.ForegroundColor())
+	title := canvas.NewText("语录壁纸", theme.ForegroundColor())
 	title.TextStyle = fyne.TextStyle{Bold: true}
 	title.TextSize = 20
 	subtitle := canvas.NewText("风起时更换，心安处久居。", theme.DisabledColor())
