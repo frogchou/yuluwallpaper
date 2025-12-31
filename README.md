@@ -1,6 +1,6 @@
 # yuluwallpaper
 
-一款轻量级的壁纸自动切换工具，支持定时更换壁纸、系统托盘控制和开机自启动功能，专为Windows系统设计。
+这是语录网站（<mcurl name="https://yulu.frogchou.com" url="https://yulu.frogchou.com"></mcurl>）的桌面壁纸工具，主要从语录网站获取图片壁纸，并设置为用户桌面背景。
 
 ## 功能特点
 
@@ -84,3 +84,4 @@ un_with_logs.ps1
 ## 许可证
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
+
